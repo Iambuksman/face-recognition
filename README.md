@@ -1,5 +1,6 @@
-In the early develpmental phase of a face recognition web app. I am following a video tutorial and made some adjustments on my own to suit my style. So far, I've learned how to build and structure individual react apps and i find it amazing. Today is 2/18/2020. Would continue in my quest for more practical knowledge.
+In the early developmental phase of a face recognition web app. I am following a video tutorial and made some adjustments on my own to suit my style. So far, I've learned how to build and structure individual react apps and i find it amazing. Today is 2/18/2020. Would continue in my quest for more practical knowledge.
 
+Please, hover over the brain on the top left of the web page.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
