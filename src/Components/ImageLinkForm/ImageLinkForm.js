@@ -11,7 +11,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
                 <div className='form center pa4 br3 shadow-5'>
                 <input className='f4 pa2 w-70 center' type='tex' onChange={onInputChange}/>
                     <button 
-                    className='w-20 grow  f4 link ph3 pv2 dib pointer white '
+                    className='w-20 grow  f4 link ph3 pv2 dib pointer bg-black white'
                     onClick={onButtonSubmit}>
                     DETECT
                     </button>
