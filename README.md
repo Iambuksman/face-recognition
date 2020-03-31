@@ -1,3 +1,9 @@
+In the early developmental phase of a face recognition web app. I am following a video tutorial and made some adjustments on my own to suit my style. So far, I've learned how to build and structure individual react apps and i find it amazing. Today is 18/02/2020. Would continue in my quest for more practical knowledge.
+
+Today is 31/03/2020. The frontend aspect of the face-recognition app is complete. you can signin and signout easily. Registration is seamless. 
+
+Please, after you signin, hover over the brain on the top left of the web page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
