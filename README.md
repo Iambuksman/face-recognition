@@ -2,6 +2,10 @@ In the early developmental phase of a face recognition web app. I am following a
 
 Today is 31/03/2020. The frontend aspect of the face-recognition app is complete. you can signin and signout easily. Registration is seamless. 
 
+<strong>
+Just a few changes...
+</strong>
+
 <strong>Please, hover over the brain on the top left of the web page.</strong>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

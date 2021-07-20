@@ -26,7 +26,9 @@ const SignIn = ({ onRouteChange }) => {
             </input>
             </div>
             <div className="lh-copy mt3">
-                <p onClick={() => onRouteChange('register')} className="f6 link red pointer "><button className='f6 bg-transparent grow'>Register</button></p>
+                <p onClick={() => onRouteChange('register')} className="f6 link red pointer "><button className='f6 bg-transparent grow'>
+                Register
+                </button></p>
             </div>
         </div>
         </main>
